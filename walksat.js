@@ -198,5 +198,4 @@ for(let i = 0; i < times.length; i++){
     times[i] = (times[i][times[i].length/2])^2;
 }
 console.log(times +',' +  counts);
-f
 //console.log(walksat(generate(20, 200), 0.2, 1000));
